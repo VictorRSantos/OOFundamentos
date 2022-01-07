@@ -1,0 +1,16 @@
+S:\Balta.io\OOFundamentos\Payments\bin\Debug\net5.0\Payments.exe
+S:\Balta.io\OOFundamentos\Payments\bin\Debug\net5.0\Payments.deps.json
+S:\Balta.io\OOFundamentos\Payments\bin\Debug\net5.0\Payments.runtimeconfig.json
+S:\Balta.io\OOFundamentos\Payments\bin\Debug\net5.0\Payments.runtimeconfig.dev.json
+S:\Balta.io\OOFundamentos\Payments\bin\Debug\net5.0\Payments.dll
+S:\Balta.io\OOFundamentos\Payments\bin\Debug\net5.0\ref\Payments.dll
+S:\Balta.io\OOFundamentos\Payments\bin\Debug\net5.0\Payments.pdb
+S:\Balta.io\OOFundamentos\Payments\obj\Debug\net5.0\Payments.csproj.AssemblyReference.cache
+S:\Balta.io\OOFundamentos\Payments\obj\Debug\net5.0\Payments.GeneratedMSBuildEditorConfig.editorconfig
+S:\Balta.io\OOFundamentos\Payments\obj\Debug\net5.0\Payments.AssemblyInfoInputs.cache
+S:\Balta.io\OOFundamentos\Payments\obj\Debug\net5.0\Payments.AssemblyInfo.cs
+S:\Balta.io\OOFundamentos\Payments\obj\Debug\net5.0\Payments.csproj.CoreCompileInputs.cache
+S:\Balta.io\OOFundamentos\Payments\obj\Debug\net5.0\Payments.dll
+S:\Balta.io\OOFundamentos\Payments\obj\Debug\net5.0\ref\Payments.dll
+S:\Balta.io\OOFundamentos\Payments\obj\Debug\net5.0\Payments.pdb
+S:\Balta.io\OOFundamentos\Payments\obj\Debug\net5.0\Payments.genruntimeconfig.cache
